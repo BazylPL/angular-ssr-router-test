@@ -1,0 +1,7 @@
+
+:host ::ng-deep .content {
+  margin: 100px;
+  border: 1px solid #fff;
+  height: 400px;
+  background: grey;
+}
